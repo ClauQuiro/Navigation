@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentNavegation</string>
+    <string name="start">Comenzar</string>
+    <string name="write_name">Escribir nombre</string>
+    <string name="welcome">Bienvenidos al logo Trivia Ingrese su nombre para comenzar</string>
+    <string name="hello_blank_fragment">llegamos a frgament Trivia :)</string>
+</resources>
